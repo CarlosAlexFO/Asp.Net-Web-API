@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Marta",
+    "Sobrenome": "Ferreira",
+    "Telefone": "123456789",
+    "Ra": 1
+  },
+  {
+    "Id": 3,
+    "Nome": "Laura",
+    "Sobrenome": "Franco",
+    "Telefone": "234567891",
+    "Ra": 3
+  },
+  {
+    "Id": 2,
+    "Nome": "Paula",
+    "Sobrenome": "Braga",
+    "Telefone": "274567891",
+    "Ra": 2
+  },
+  {
+    "Id": 5,
+    "Nome": "Roberta",
+    "Sobrenome": "Costa e Silva",
+    "Telefone": "274567891",
+    "Ra": 5
+  },
+  {
+    "Id": 5,
+    "Nome": "Joana",
+    "Sobrenome": "Braga",
+    "Telefone": "274567891",
+    "Ra": 4
+  }
+]
