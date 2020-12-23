@@ -4,7 +4,6 @@
     "Nome": "Roberta Cristina",
     "Sobrenome": "Costa e Silva",
     "Telefone": "274567891",
-    "Data": "2013-12",
     "Ra": 5
   },
   {
@@ -12,7 +11,6 @@
     "Nome": "Joana",
     "Sobrenome": "de Bragança",
     "Telefone": "274567891",
-    "Data": "2003-12",
     "Ra": 4
   },
   {
@@ -20,7 +18,6 @@
     "Nome": "Eduardo ",
     "Sobrenome": "Lisboa",
     "Telefone": "123654987",
-    "Data": "2000-11",
     "Ra": 15
   },
   {
@@ -28,23 +25,13 @@
     "Nome": "Andrea",
     "Sobrenome": "Furtado Chaves",
     "Telefone": "99888777",
-    "Data": "1996-05",
     "Ra": 16
   },
   {
     "Id": 1,
-    "Nome": "Carlos Alexandre",
-    "Sobrenome": " Ferreira de Oliveira",
+    "Nome": "Carlos Alexandre Ferreira de Oliveira",
+    "Sobrenome": "de Jesus",
     "Telefone": "58440397",
-    "Data": "2020-12",
-    "Ra": 80
-  },
-  {
-    "Id": 1,
-    "Nome": "Pedro",
-    "Sobrenome": "Alves de Oliveira",
-    "Telefone": "41372214",
-    "Data": null,
-    "Ra": 2011
+    "Ra": 888888
   }
 ]

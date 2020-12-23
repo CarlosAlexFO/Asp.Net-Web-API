@@ -18,6 +18,8 @@ namespace WebApp.Models
 
         public string Telefone { get; set; }
 
+        public string Data { get; set; }
+
         public int Ra { get; set; }
 
 
