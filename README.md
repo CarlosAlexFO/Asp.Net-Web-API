@@ -20,7 +20,7 @@ Frontend:
 
 Javascript
 
-Layout 
+Layout Bootstrap
 
 CSS
 
